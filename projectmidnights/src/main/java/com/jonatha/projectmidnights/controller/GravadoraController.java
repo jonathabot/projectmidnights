@@ -18,6 +18,7 @@ public class GravadoraController {
     @PostMapping("/add")
     public String add(@RequestBody Gravadora gravadora) {
         gravadoraService.saveGravadora(gravadora);
+        System.out
         return "New gravadora is added";
     }
 

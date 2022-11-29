@@ -1,21 +1,19 @@
 package com.jonatha.projectmidnights.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
+@Table(name = "GRAVADORA")
 public class Gravadora {
 
-    @Id
-    @GeneratedValue(strategy =  GenerationType.IDENTITY)
     private int id;
     private String nome;
 
     public Gravadora() {
     }
 
+    @Id
+    @GeneratedValue(strategy =  GenerationType.IDENTITY)
     public int getId() {
         return id;
     }
@@ -23,6 +21,7 @@ public class Gravadora {
     public void setId(int id) {
         this.id = id;
     }
+
 
     public String getNome() {
         return nome;
