@@ -7,6 +7,8 @@ import javax.persistence.*;
 public class Gravadora {
 
     private int id;
+
+    private Long idGravadora;
     private String nome;
 
     public Gravadora() {
@@ -22,6 +24,13 @@ public class Gravadora {
         this.id = id;
     }
 
+    public Long getIdGravadora() {
+        return idGravadora;
+    }
+
+    public void setIdGravadora(Long idGravadora) {
+        this.idGravadora = idGravadora;
+    }
 
     public String getNome() {
         return nome;
