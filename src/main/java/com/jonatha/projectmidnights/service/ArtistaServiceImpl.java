@@ -1,7 +1,7 @@
 package com.jonatha.projectmidnights.service;
 
 import com.jonatha.projectmidnights.model.Artista;
-import com.jonatha.projectmidnights.repository.ArtistaRepository;
+import com.jonatha.projectmidnights.service.repository.ArtistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

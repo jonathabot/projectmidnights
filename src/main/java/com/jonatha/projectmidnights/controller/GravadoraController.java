@@ -3,6 +3,8 @@ package com.jonatha.projectmidnights.controller;
 import com.jonatha.projectmidnights.model.Gravadora;
 import com.jonatha.projectmidnights.service.GravadoraService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -24,4 +26,5 @@ public class GravadoraController {
 
     @GetMapping("/getAll")
     public List<Gravadora> getAllGravadoras() { return gravadoraService.getAllGravadoras(); }
+
 }

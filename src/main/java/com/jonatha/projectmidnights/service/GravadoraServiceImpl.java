@@ -1,7 +1,7 @@
 package com.jonatha.projectmidnights.service;
 
 import com.jonatha.projectmidnights.model.Gravadora;
-import com.jonatha.projectmidnights.repository.GravadoraRepository;
+import com.jonatha.projectmidnights.service.repository.GravadoraRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -20,4 +20,5 @@ public class GravadoraServiceImpl implements GravadoraService {
     public List<Gravadora> getAllGravadoras() {
         return gravadoraRepository.findAll();
     }
+
 }

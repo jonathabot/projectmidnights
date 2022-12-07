@@ -22,6 +22,6 @@ public class AlbumController {
         return "New album added";
     }
 
-    @GetMapping("/getALl")
+    @GetMapping("/getAll")
     public List<Album> getAllAlbums() {return albumService.getAllAlbums();}
 }

@@ -1,4 +1,4 @@
-package com.jonatha.projectmidnights.repository;
+package com.jonatha.projectmidnights.service.repository;
 
 import com.jonatha.projectmidnights.model.Gravadora;
 import org.springframework.data.jpa.repository.JpaRepository;

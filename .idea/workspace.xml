@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9e61b8-d3ec-44d6-9a8a-72b29d00b514" name="Changes" comment="" />
+    <list default="true" id="2e9e61b8-d3ec-44d6-9a8a-72b29d00b514" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/AlbumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/AlbumController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/GravadoraController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/GravadoraController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/repository/AlbumRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/repository/AlbumRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/repository/ArtistaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/repository/ArtistaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/repository/GravadoraRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/repository/GravadoraRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/AlbumServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/AlbumServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/ArtistaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/ArtistaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/GravadoraServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/GravadoraServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -52,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Jonatha/projectmidnights",
+    "last_opened_file_path": "C:/Jonatha/Projetos/projectmidnights",
     "spring.configuration.checksum": "3d63a9d7300dc489dbef42b72eaf8d5f"
   }
 }]]></component>
@@ -95,6 +106,7 @@
       <workItem from="1670364805664" duration="3444000" />
       <workItem from="1670373625473" duration="1507000" />
       <workItem from="1670375304761" duration="28000" />
+      <workItem from="1670451866388" duration="2506000" />
     </task>
     <servers />
   </component>
