@@ -1,6 +1,6 @@
-# Project Midnights
+# Project Midnights (Back-end)
 
-Sistema de cadastro de Gravadoras. Feito para disciplina PPWI4 (Programação para Web) na faculdade. Inspirado na capa do álbum [Midnights](https://pt.wikipedia.org/wiki/Midnights).
+Este repositório contém a parte back-end de um sistema de controle de cadastro de Gravadoras, Artistas e Albums. Esse projeto foi feito durante a disciplina PPWI4 (Programação para Web) na minha faculdade e está recebendo constantes updates. Será entregue como projeto final e contabilizará nota para a matéria. Você pode checar o repositório do front-end desse projeto -> [projectmidnightsfront](github.com/jonathabot/projectmidnightsfront).
 
 ## Stack
 
