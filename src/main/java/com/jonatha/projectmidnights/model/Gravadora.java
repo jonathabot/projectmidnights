@@ -11,6 +11,7 @@ public class Gravadora {
     private Long idGravadora;
     private String nome;
     private String urlImg;
+    private String artistasDaGravadora;
 
     public Gravadora() {
     }
@@ -47,5 +48,13 @@ public class Gravadora {
 
     public void setUrlImg(String urlImg) {
         this.urlImg = urlImg;
+    }
+
+    public String getArtistasDaGravadora() {
+        return artistasDaGravadora;
+    }
+
+    public void setArtistasDaGravadora(String artistasDaGravadora) {
+        this.artistasDaGravadora = artistasDaGravadora;
     }
 }

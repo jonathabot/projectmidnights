@@ -10,6 +10,7 @@ public class Album {
     private Long idAlbum;
     private String nome;
     private String urlImg;
+    private String musicasDoAlbum;
 
     public Album() {
     }
@@ -46,5 +47,13 @@ public class Album {
 
     public void setUrlImg(String urlImg) {
         this.urlImg = urlImg;
+    }
+
+    public String getMusicasDoAlbum() {
+        return musicasDoAlbum;
+    }
+
+    public void setMusicasDoAlbum(String musicasDoAlbum) {
+        this.musicasDoAlbum = musicasDoAlbum;
     }
 }

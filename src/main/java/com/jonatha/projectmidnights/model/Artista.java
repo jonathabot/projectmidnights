@@ -11,6 +11,7 @@ public class Artista {
     private Long idArtista;
     private String nome;
     private String urlImg;
+    private String albumsDoArtista;
 
     public Artista() {
     }
@@ -47,5 +48,13 @@ public class Artista {
 
     public void setUrlImg(String urlImg) {
         this.urlImg = urlImg;
+    }
+
+    public String getAlbumsDoArtista() {
+        return albumsDoArtista;
+    }
+
+    public void setAlbumsDoArtista(String albumsDoArtista) {
+        this.albumsDoArtista = albumsDoArtista;
     }
 }
