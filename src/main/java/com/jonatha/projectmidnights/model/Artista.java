@@ -10,6 +10,7 @@ public class Artista {
 
     private Long idArtista;
     private String nome;
+    private String urlImg;
 
     public Artista() {
     }
@@ -38,5 +39,13 @@ public class Artista {
 
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public String getUrlImg() {
+        return urlImg;
+    }
+
+    public void setUrlImg(String urlImg) {
+        this.urlImg = urlImg;
     }
 }

@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e9e61b8-d3ec-44d6-9a8a-72b29d00b514" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/AlbumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/AlbumController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/GravadoraController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/controller/GravadoraController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/repository/AlbumRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/repository/AlbumRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/repository/ArtistaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/repository/ArtistaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/repository/GravadoraRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/repository/GravadoraRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/AlbumServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/AlbumServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/ArtistaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/ArtistaServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/GravadoraServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/service/GravadoraServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/model/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/model/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/model/Artista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/model/Artista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/model/Gravadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jonatha/projectmidnights/model/Gravadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Jonatha/Projetos/projectmidnights",
-    "spring.configuration.checksum": "3d63a9d7300dc489dbef42b72eaf8d5f"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Jonatha/Projetos/projectmidnights&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3d63a9d7300dc489dbef42b72eaf8d5f&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ProjectmidnightsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="projectmidnights" />
@@ -107,6 +101,9 @@
       <workItem from="1670373625473" duration="1507000" />
       <workItem from="1670375304761" duration="28000" />
       <workItem from="1670451866388" duration="2506000" />
+      <workItem from="1670968829631" duration="51000" />
+      <workItem from="1670968932187" duration="987000" />
+      <workItem from="1670970289468" duration="2003000" />
     </task>
     <servers />
   </component>

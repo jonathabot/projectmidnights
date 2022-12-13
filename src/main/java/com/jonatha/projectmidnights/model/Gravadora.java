@@ -10,6 +10,7 @@ public class Gravadora {
 
     private Long idGravadora;
     private String nome;
+    private String urlImg;
 
     public Gravadora() {
     }
@@ -38,5 +39,13 @@ public class Gravadora {
 
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public String getUrlImg() {
+        return urlImg;
+    }
+
+    public void setUrlImg(String urlImg) {
+        this.urlImg = urlImg;
     }
 }
